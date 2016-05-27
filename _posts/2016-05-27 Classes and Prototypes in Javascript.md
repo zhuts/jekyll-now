@@ -44,4 +44,4 @@ console.log(Object.keys(myDog)); //["name"]
 This creates an extremely economical way to "add" methods and properties to
 similar, pre-existing objects, without having to actually add the new method to
 each individual object. The new method only has to exist on the parent
-constructor. 
+constructor.
