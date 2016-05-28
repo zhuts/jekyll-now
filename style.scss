@@ -170,6 +170,7 @@ img {
   margin-right: 15px;
 
   @include mobile {
+  	visibilty: hidden;
     float: none;
     display: block;
     margin: 0 auto;
