@@ -10,7 +10,7 @@ tags:
 - cheat sheet
 ---
 
-> This is Markdown Cheatsheet Demo for this Jekyll theme. Please check the raw content of this file for the markdown usage.
+> This is Markdown Cheatsheet Demo.
 
 ## Typography Elements in One
 
