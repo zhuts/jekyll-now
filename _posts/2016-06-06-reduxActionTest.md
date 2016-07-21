@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Writing and Testing Redux Actions with Mocha and Expect"
+categories: Redux Testing JavaScript
 ---
 
 Actions are the triggers that called within your app whenever you want to change the state. They are functions that, when called, broadcasts the action name along with whatever data you wish to send with the action.
@@ -32,3 +33,5 @@ describe ('My apps cool apps actions', () =>{
 });
 
 ```
+
+Note that this method of writing action tests should work regardless of what framework you're working in. React, React-Native, Angular... it shouldn't matter, as long as you're working in Redux.
