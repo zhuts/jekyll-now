@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Full Markdown cheatsheet and demo (Markdown)
+title: Full Markdown cheatsheet and demo
+categories: Markdown cheatsheets
 tags:
 - News
 - Tags
